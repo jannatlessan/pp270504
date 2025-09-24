@@ -1,0 +1,35 @@
+{
+  "prompts": [
+    {
+      "id": "prompt_001",
+      "imageUrl": "https://raw.githubusercontent.com/Rizwan884/my-pp-app-images/refs/heads/main/prompt_001.png",
+      "prompt": "Create a retro vintage grainy but brighter image of the reference figure, draped in a perfect black wine-colored Pinteresty aesthetic retro shirt with white pants, holding a sunflower in hand. It must feel like a 90s movie, romanticizing a windy environment. The boy is standing against a solid wall with deep shadows.",
+      "category": "New",
+      "tags": ["retro", "aesthetic", "boy", "wine", "pinterest"],
+      "popularity": 0,
+      "createdAt": "2025-09-23T16:41:00Z",
+      "isFeatured": false
+    },
+    {
+      "id": "prompt_002",
+      "imageUrl": "https://raw.githubusercontent.com/Rizwan884/my-pp-app-images/refs/heads/main/prompt_002.png",
+      "prompt": "Ultra-realistic editorial portrait of a graceful South Asian woman with a poised, regal expression. She wears a deep brown sequinned saree with intricate mirror and thread embroidery across the fabric, subtly transitioning into maroon near the hem. The saree has sheer sleeves and densely embellished borders, worn in a classic drape with soft pleats and full arm coverage. Her blouse has a modest V-neckline. She poses in a three-quarter angle, left arm folded across her waist, right hand lifted near her chin in a contemplative pose. Her makeup is flawless and radiant—defined brows, soft contour, matte nude lipstick, and a sculpted nose. She wears large, intricately detailed traditional jhumkas with clustered pearls. Hairstyle is upgraded: voluminous twisted low bun with tendrils softly framing her face, adding allure and elegance. Background: A traditional Lippan art wall with ornate white clay motifs, mirror inlays, and earthy textures—exuding Rajasthani folk elegance. Ambient lighting is soft and diffused, with subtle golden tones highlighting her cheekbones and saree textures. Studio-quality 32k detail, 3:4 aspect ratio, no watermarks, no overlays, crisp color grading, cinematic editorial finish. Expression: poised, confident, timeless.",
+      "category": "New",
+      "tags": ["rajasthani", "aesthetic", "girl", "saree", "brown"],
+      "popularity": 0,
+      "createdAt": "2025-09-23T16:44:52Z",
+      "isFeatured": false
+    }
+  ],
+  "allTags": [
+    "retro",
+    "aesthetic",
+    "boy",
+    "wine",
+    "pinterest",
+    "rajasthani",
+    "girl",
+    "saree",
+    "brown"
+  ]
+}
