@@ -199,6 +199,27 @@
     "popularity": 0,
     "createdAt": "2025-09-26T16:29:42Z",
     "isFeatured": false
-  }
+  },
+    {
+  "id": "prompt_021",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_021.jpeg",
+  "prompt": "Aesthetic outdoor morning photography, a young man in a casual outfit: oversized white t-shirt with loose wide black jeans. He sits while drinking tea on the terrace of an outdoor café surrounded by lush green plants. In the foreground near the camera, a blurred coffee cup forms a natural frame. Soft golden sunlight filters through the leaves, creating a warm and peaceful atmosphere. The composition is candid, cinematic, and ultra-detailed, evoking the calm of a serene morning in the city.",
+  "category": "Lifestyle",
+  "tags": ["Morning", "Casual", "Photography", "Aesthetic", "Outdoor", "Cinematic", "Relaxed", "Natural Light", "Male"],
+  "popularity": 0,
+  "createdAt": "2025-09-26T16:30:42Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_022",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_022.jpeg",
+  "prompt": "A hyper-realistic full-body portrait of a stylish man standing casually in front of a modern architectural backdrop with sleek glass panels and soft natural daylight reflecting off the surfaces. He is wearing a crisp traditional white shalwar kameez layered under a tailored grey formal blazer, paired with polished black leather shoes. His hands rest in his pockets, one leg crossed over the other in a relaxed stance. He looks slightly to the side with confidence, exuding elegance and sophistication. Ultra-detailed, cinematic lighting, professional portrait style.",
+  "category": "Portrait",
+  "tags": ["Portrait", "Traditional", "Stylish", "Modern", "Fashion", "Confidence", "Cinematic", "Hyper-Realistic", "Male"],
+  "popularity": 0,
+  "createdAt": "2025-09-26T16:31:42Z",
+  "isFeatured": false
+}
+
   ]
 }
