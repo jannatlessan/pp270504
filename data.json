@@ -1,6 +1,106 @@
 {
   "prompts": [
     {
+  "id": "prompt_032",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_032.png",
+  "prompt": "Create a studio portrait of an athletic man (face preserved 100%). He is wearing a light green blazer and slim-fit trousers with white sneakers, and a white shirt slightly unbuttoned. On his left hand, a stylish white watch. He is seated on a tall swivel stool, with a gradient green background and spotlight lighting, in the style of a fashion photoshoot. Editorial, modern, stylish vibe.",
+  "category": "Portrait",
+  "tags": ["All", "Trending", "New", "Male", "Fashion", "Modern", "Editorial", "Studio", "Stylish", "Cinematic"],
+  "popularity": 0,
+  "createdAt": "2025-09-29T16:31:42Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_031",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_031.png",
+  "prompt": "A double exposure composition in black and white. In the foreground, a young man with short dark hair is standing with his back to the camera, his head turned to the left, gazing at the horizon. He is wearing a black blazer and pants ensemble, standing on a rock in a body of water. In the background, in an overlapping translucent silhouette, the profile of the same man’s face appears with his eyes closed and head raised. Cloudy overcast day, diffuse lighting, melancholic and artistic atmosphere with a vintage, grainy touch.",
+  "category": "Conceptual",
+  "tags": ["All", "Trending", "New", "Male", "Double Exposure", "Black-and-White", "Artistic", "Vintage", "Melancholic", "Cinematic"],
+  "popularity": 0,
+  "createdAt": "2025-09-29T16:31:42Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_030",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_030.png",
+  "prompt": "A black-and-white aesthetic portrait of a stylish man with accurate face preserved. He is wearing an oversized dark coat, with messy, voluminous hair partially covering his face. His pose is emotional and introspective, with one hand near his mouth and his head slightly turned to the side. Shadow from a window falls across the wall behind him, creating a moody and artistic atmosphere. The overall vibe is mysterious and emotional.",
+  "category": "Portrait",
+  "tags": ["All", "Trending", "New", "Male", "Black-and-White", "Moody", "Artistic", "Mysterious", "Emotional", "Fashion"],
+  "popularity": 0,
+  "createdAt": "2025-09-29T16:31:42Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_029",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_029.png",
+  "prompt": "Create a retro vintage grainy but bright image of the reference picture but draped in a perfect light blue color Pinteresty aesthetic linen shirt with white linen pant and holding a rose flower in hands. It must feel like a 90s movie and romanticising environment. The boy is standing against a solid wall with deep shadows. Dreamy, film-like vibe.",
+  "category": "Portrait",
+  "tags": ["All", "Trending", "New", "Male", "Vintage", "90s", "Romantic", "Editorial", "Film", "Retro"],
+  "popularity": 0,
+  "createdAt": "2025-09-29T16:31:42Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_028",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_028.png",
+  "prompt": "Generate this updated selfie into a premium-looking bathroom selfie. The bathroom should appear contemporary with polished tiles, good lighting, and a mirror in the background. The person must be holding the orange iPhone 17 Pro Max. Realistic portrait, making the phone stand out as reflective, bold, and high-end. The selfie should have natural blur with a touch of elegance, keeping the focus on the person and the iPhone while the background remains non-distracting.",
+  "category": "Lifestyle",
+  "tags": ["All", "Trending", "New", "Male", "Lifestyle", "Selfie", "Modern", "Luxury", "Elegant", "Technology"],
+  "popularity": 0,
+  "createdAt": "2025-09-29T16:31:42Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_027",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_027.png",
+  "prompt": "Hyper-realistic cinematic portrait on a deep burgundy backdrop. Maroon velvet blazer, black silk shirt, slim trousers. Leaning on elegant chair, one arm draped, confident gaze. Rich waves with highlights. Golden spotlight, dramatic shadows, ultra-detailed fabrics, skin tones, luxury editorial vibe. 85mm lens, 9:16 Instagram style.",
+  "category": "Portrait",
+  "tags": ["All", "Trending", "New", "Male", "Cinematic", "Luxury", "Editorial", "Fashion", "Portrait", "Hyper-Realistic"],
+  "popularity": 0,
+  "createdAt": "2025-09-29T16:31:42Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_026",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_026.png",
+  "prompt": "A man looking intently at a holographic projection of himself, which is emanating from a small device on a table. The man has dark hair and a beard, and he is wearing a dark blue t-shirt and a watch. His expression is one of curiosity and slight confusion. The holographic figure is glowing blue and appears to be in an active pose, gesturing with one hand. The background is a slightly blurred indoor setting, possibly a home or office. Futuristic cinematic style.",
+  "category": "Conceptual",
+  "tags": ["All", "Trending", "New", "Male", "Futuristic", "Sci-Fi", "Hologram", "Cinematic", "Modern", "Conceptual"],
+  "popularity": 0,
+  "createdAt": "2025-09-29T16:31:42Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_025",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_025.png",
+  "prompt": "Retro Bollywood mafia look: man sitting on hood of a classic car, wearing a royal green pinstriped blazer and bell-bottoms, black shirt open at collar. Chrome car, sunlight, trees in background. Stylish, cinematic, retro gangster vibe.",
+  "category": "Portrait",
+  "tags": ["All", "Trending", "New", "Male", "Retro", "Bollywood", "Vintage", "Classic", "Gangster", "Fashion"],
+  "popularity": 0,
+  "createdAt": "2025-09-29T16:31:42Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_024",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_024.png",
+  "prompt": "Retro Indonesian mafia look: A man sits on the hood of a classic car, wearing a royal black jacket and fitted trousers, with a black shirt open at the collar. Chrome car, sunlight, and trees in the background. Vintage mafia aesthetic, cinematic sunlight, powerful vibes.",
+  "category": "Portrait",
+  "tags": ["All", "Trending", "New", "Male", "Retro", "Mafia", "Vintage", "Cinematic", "Classic", "Fashion"],
+  "popularity": 0,
+  "createdAt": "2025-09-29T16:31:42Z",
+  "isFeatured": false
+},
+{
+  "id": "prompt_023",
+  "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_023.png",
+  "prompt": "A 90s vintage editorial-style full body portrait of a 25-year-old man leaning casually against an old rustic doorway. He poses with one hand gripping the chipped wooden door and the other tucked in his beige pleated trousers, exuding effortless confidence. He wears a loose warm red short-sleeve button-up shirt, slightly unbuttoned at the chest, styled in a retro casual way, with medium-length wavy hair. Retro textures, grainy aesthetic, film look.",
+  "category": "Portrait",
+  "tags": ["All", "Trending", "New", "Male", "Vintage", "90s", "Editorial", "Retro", "Film", "Fashion"],
+  "popularity": 0,
+  "createdAt": "2025-09-29T16:31:42Z",
+  "isFeatured": false
+},
+    {
       "id": "prompt_022",
       "imageUrl": "https://raw.githubusercontent.com/jannatlessan/pp270504/refs/heads/main/prompt_022.jpeg",
       "prompt": "A hyper-realistic full-body portrait of a stylish man standing casually in front of a modern architectural backdrop with sleek glass panels and soft natural daylight reflecting off the surfaces. He is wearing a crisp traditional white shalwar kameez layered under a tailored grey formal blazer, paired with polished black leather shoes. His hands rest in his pockets, one leg crossed over the other in a relaxed stance. He looks slightly to the side with confidence, exuding elegance and sophistication. Ultra-detailed, cinematic lighting, professional portrait style.",
